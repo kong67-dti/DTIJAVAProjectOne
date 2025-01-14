@@ -8,6 +8,10 @@ public class MyClass00 {
     }
 }
 
+class Wow{  }
+
+class Woo{  }
+
 
 
 
