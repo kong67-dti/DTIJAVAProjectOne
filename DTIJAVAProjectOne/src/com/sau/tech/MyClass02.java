@@ -1,7 +1,8 @@
 package com.sau.tech;
 
-import java.sql.SQLOutput;
-
 public class MyClass02 {
+    public static void main(String[] args) {
+
+    }
 
 }
